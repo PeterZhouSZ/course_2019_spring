@@ -8,4 +8,4 @@
  * Reference paper
  * Report
  * Source code
- * Presentation video and slides
+ * Presentation [video](https://youtu.be/0OsWrUkH4Yg) and slides
