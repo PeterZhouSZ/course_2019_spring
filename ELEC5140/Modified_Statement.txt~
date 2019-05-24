@@ -1,6 +1,0 @@
-The core modified part of my code comparing to the original PAAS repository apart from some trival bugs are listed below:
-
-src/fpga/my/*
-src/tests/test-progs/my/*
-src/configs/my/*
-src/run_sobel_fpga.py
