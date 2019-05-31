@@ -1,4 +1,4 @@
-# Courses I took in HKUST, 2019 Spring
+# Courses in HKUST, 2019 Spring
 
 ## CSIC5011 / MATH6380Q	- Data Reduction & Visualization
 
