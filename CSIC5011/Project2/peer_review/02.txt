@@ -1,0 +1,13 @@
+ 02. LIANG, Zhicong. Finding Trend in Stock Market with RobustPCA. 
+
+The author explored the stock classification problem in SNP500 dataset, by using raw feature, PCA feature and Robust PCA features based on the assumption that stocks within a class may have similar trends. The experiments demonstrated that Robust PCA has the better performance on noisy stock data.
+
+Strengths: This work used three different method to extract stock trend feature representation and used which to classify the stocks into 10 classes. The figures are well illustrated to demonstrate the similarity of stock trends within the same class, and the evaluation is reasonable.
+
+Weakness: There is no presentation video, which means this is not a complete work. Some key information might be missing in the poster, for example, in the third paragraph of Section Analysis, the mentioned Table 2 never appeared in the poster.
+
+Evaluation on quality of writing (3): This poster is well organized, and figures are clear enough to demonstrate the author¡¯s idea, while as mentioned, author might lose some key evaluation results.
+Evaluation on presentation (2): There is only slides with notes while no presentation video is available.
+Evaluation on creativity (2): The methods and experiments are correct but normal which is not novel or creative.
+
+Confidence on your assessment(2)

@@ -1,0 +1,16 @@
+07. WU, Ziming, Feng HAN, Song LIU. Whether and why are people feeling happy? Multi-Task Mining Based on Text-based Information. 
+
+In this work, authors used VAD model to express the emotions in the text followed by a multi-task model for further classification on HappyDB dataset. Comparison among the front V, A and D model, and comparison between the rear multi-task model and single-task model are conducted. Authors concluded that multi-task model is more suitable for this specific task.
+
+
+Strengths: This work is complete.
+
+Weakness: Authors adopted multi-task deep learning method on the HappyDB dataset. I would raise my concern on this project of its relevance to this course, because this dataset is not included in the project instructions. Authors should make a justification on the relevance.
+
+Evaluation on quality of writing (3): This poster is moderate in written. The author should bring enough mathematical insight during this project rather than directly adopt a deep learning architecture to achieve a certain goal.
+.
+Evaluation on presentation (3): This work is moderate in presentation.
+
+Evaluation on creativity (2): As discussed in Weakness and written part, this work is lack of mathematical insight, so that we can not learn much from this work which is not preferable.
+
+Confidence on your assessment(2)

@@ -1,0 +1,16 @@
+08. CHAN, Lok Chun. Human Age Ranking Using Hodge Rank. 
+
+In this work, author evaluated human age ranking via Hodge Rank. Author performed evaluation on four model and proposed two dataset augmentation method to improve the ranking accuracy. As concluded, the uniform model achieved the best performance under his augmented dataset.
+
+Strengths: This work demonstrated a good research clue, which is worth encouraging. Explore the task, raise your own problem and then find a way to solve it. The author first found that the ranking results were not desirable, then he found that many ¡°outlier¡± voter might contaminate the dataset, so he proposed a method to remove such bad voters. Then the author also discussed his trial on augmenting the dataset by adding more samples.
+
+Weakness: The poster of this work is too simple and may not convey author¡¯s idea clearly, while the presentation complemented this weakness.
+
+Evaluation on quality of writing (3): Author can improve the poster so that the idea can be expressed more clearly on paper.
+.
+Evaluation on presentation (5): Very good presentation which clearly described author¡¯s idea and what the author found by raising and solving the problems.
+
+Evaluation on creativity (5): As described in Strengths, the author proposed two dataset augmentation methods based on his observation of bad voter and the sample decreasing after removing such outliers.
+
+Confidence on your assessment(2)
+

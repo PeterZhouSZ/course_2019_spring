@@ -1,0 +1,15 @@
+06. SUN, Jing, Shuang LUO, Zhijie YU. Dimensionality Reduction of Face Order Problem Using Nonlinear Embedding Methods. 
+
+In this work, author ordered the faces by using the four methods, i.e., Diffusion map, MDS, ISOMAP and LLE. Authors claimed that the four methods could effectively capture the Euclidean structure of the dataset which is controversial.
+
+Strengths: This work has a very good presentation where all members are involved, and the way authors showing their results aside the method introduction is worth learning.
+
+Weakness: Evaluations are comprehensive enough comparing the group 03, where only visualization of ordering and embedding are conducted, no quantitative results on ordering performance evaluation.
+
+Evaluation on quality of writing (3): The poster is not well organized, and there exist a lot of typos, for example, the most common typo algothrims which should be algorithms.
+.
+Evaluation on presentation (5): Good presentation which clearly conveyed their idea and explain the experiment design and their conclusion. All group members presented their assigned method.
+
+Evaluation on creativity (3): The discussion only remains in ordering visualization.
+
+Confidence on your assessment(2)

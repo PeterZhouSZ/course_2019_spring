@@ -1,0 +1,15 @@
+04. LUI, Go Nam. Human age ranking from pairwise comparison data via HodgeRank.  
+
+In this work, author evaluated human age ranking via Hodge Rank, global and z scores, inconsistency analysis, error analysis on four different models are evaluated. Through these experiments, author concluded that Thurstone-Mosteller model is the most appropriate model due to the best error performance.
+
+Strengths: This work is a complete work on human age ranking and evaluations are conducted from three aspects.
+
+Weakness: The idea of this work is common, and there is no further discussion on the methods when achieving different results in different property analysis.
+
+Evaluation on quality of writing (3): The written and organization of the poster still have some space to be improved. Especially, author should make more discussion on your designed experiments, rather than just describe the result.
+.
+Evaluation on presentation (3): The presentation can also be improved, comparing to another group working on the same topic.
+
+Evaluation on creativity (3): It is obvious that all the models achieved less than 50% accuracy, author should raise more problem on the dataset, for example, why it performed not well enough, or the method to improve such accuracy.
+
+Confidence on your assessment(2)

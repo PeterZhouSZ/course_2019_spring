@@ -1,0 +1,13 @@
+01. KANG, Lei. Order the faces by Diffusion Map, ISOMAP and LLE
+
+The author used Diffusion map, MDS, ISOMAP and LLE to find the low-dimensional embedding of the high-dimensional face images. From the scatter plots of the low-dimensional embedding, author concluded that Diffusion map, ISOMAP and LLE can get correct low-dimensional embedding results while MDS performs poorly in this problem.
+
+Strengths: This is a complete work using four different methods to find low dimensional embedding and get the correct order, comparison among these methods are conducted and analysis on different performance is discussed. 
+
+Weakness: The figure in the reports are not clear enough lack of axes titles which may bring confusion for readers during their first reading. The methods and experiments in this report is common.
+
+Evaluation on quality of writing (4): This report is clearly written and well organized, the author should improve the illustrations by adding axes titles on all scatter plots for better demonstration.
+Evaluation on presentation (3): Needs to improve, it will be better if the author use slides during presentation
+Evaluation on creativity (3): The idea is common by directly applying four methods, no extension or combination both in methods and experiments.
+
+Confidence on your assessment(2)

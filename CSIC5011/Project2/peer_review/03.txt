@@ -1,0 +1,15 @@
+03. LIU, Di, Meilan WANG, Xu HAN. Order the Faces via Manifold Learning.
+
+In this work, authors used manifold learning methods to explore the face ordering task, the ordering performance evaluation and embedding visualization are conducted among 9 methods, further authors also discussed the influence of different neighbor number on ordering and low dimensional embeddings.
+
+
+Strengths: This work is well written and presented, evaluations are complete and relatively thorough comparing to other groups in the same topic. It is a good work combining the efforts by three authors.
+
+Weakness: No discussion on why t-SNE is not well performed in this task.
+
+Evaluation on quality of writing (5): This poster is well organized, and figures are clear enough to demonstrate the author¡¯s idea.
+Evaluation on presentation (4): Good presentation which clearly conveyed their idea and explain the experiment design and their conclusion.
+
+Evaluation on creativity (4): Beyond comparing the ordering performance on 9 methods, authors also explore the relationship between parameters like number of neighbors on ordering performance and embeddings.
+
+Confidence on your assessment(2)

@@ -1,0 +1,15 @@
+ 05. SHEN, Xinwei and YANG, Yunfei. Representation learning on gene expression data.
+
+In this work, author explored the property of linear and non-linear dimension reduction methods and one deep learning method on data clustering and visualization. Results visualized the clustering results in 2D and demonstrated that the neural network method VAE outperformed the dimension deduction methods.
+
+Strengths: This work is well organized, and author conducted enough evaluation on method comparison and visualization. 
+
+Weakness: The experiments are designed with weak association, the linear methods PCA and RPCA are only discussed in eigenvalue cumulation, while not included in clustering comparison.
+
+Evaluation on quality of writing (5): This report is well written with adequate references, and the figures demonstrated the results clearly.
+.
+Evaluation on presentation (4): Good presentation conveys authors¡¯ idea clearly.
+
+Evaluation on creativity (3): As discussed in Weakness part, although authors conducted enough experiments, the association between experiments are not strong, and the idea of experiment design is lack of creativity.
+
+Confidence on your assessment(2)
