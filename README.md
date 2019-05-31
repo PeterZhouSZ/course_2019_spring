@@ -6,8 +6,8 @@
 * Instructor: [Prof. YAO Yuan](https://yao-lab.github.io/)
 * Description: 
     * This course is a mathematical introduction to data analysis and visualization with a perspective of topology and geometry. Topics covered include: classical linear dimensionality reduction, the principal component analysis (PCA) and its dual multidimensional scaling (MDS). Extensive application examples in biology, finance, and information technology are presented along with course projects.
-* Comment:
-    * Prof. YAO is very senior researcher in data analysis and statistical machine learning. This course has a long history where the outstanding [lecture notes](https://yao-lab.github.io/book_datasci/) are drafted when Prof. YAO was in Peking Univeristy. This course Prof. YAO will give you a breif comprehension on linear, geodesic and topologic methods for dimension redcution, together with recommended codes or libraries during lectures. Students may devote his/her efforts after lecture or during projects.
+* Comments:
+    * Prof. YAO is very senior researcher in data analysis and statistical machine learning. In this course has a long history where the outstanding [lecture notes](https://yao-lab.github.io/book_datasci/) are drafted when Prof. YAO was in Peking Univeristy. This course Prof. YAO will give you a breif comprehension on linear, geodesic and topologic methods for dimension redcution, together with recommended codes or libraries during lectures. Students may devote his/her efforts after lecture or during projects.
 * Recommended: :star: :star: :star: :star: :star: :star:
 
 ## ELEC5650 - Sensing, Estimation & Control
@@ -15,8 +15,6 @@
 * Instructor: [Prof. SHI Ling](https://eesling.home.ece.ust.hk)
 * Description:
     * The course gives an introduction to the analysis and design of sensing, estimation and control systems in a networked setting. It consists of three parts: the first part introduces necessary background knowledge in communication networks, sensor networks, linear state estimation, MAP and ML estimators, Kalman filtering, and modern control theory; the second part focuses on analysis of network effect to remote state estimation and control; the third part presents some advanced topics including distributed state estimation and resource allocation through scheduling.
-* Comments:
-    * Prof.
 * Recommended: :star: :star: :star: :star: :star:
 
 ## ELEC5140 - Advanced Computer Architecture
