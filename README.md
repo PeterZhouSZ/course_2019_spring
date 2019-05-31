@@ -6,7 +6,7 @@
 * Instructor: [Prof. YAO Yuan](https://yao-lab.github.io/)
 * Description: 
 
-This course is a mathematical introduction to data analysis and visualization with a perspective of topology and geometry. Topics covered include: classical linear dimensionality reduction, the principal component analysis (PCA) and its dual multidimensional scaling (MDS). Extensive application examples in biology, finance, and information technology are presented along with course projects.
+        This course is a mathematical introduction to data analysis and visualization with a perspective of topology and geometry. Topics covered include: classical linear dimensionality reduction, the principal component analysis (PCA) and its dual multidimensional scaling (MDS). Extensive application examples in biology, finance, and information technology are presented along with course projects.
 * Recommended: :star: :star: :star: :star: :star: :star:
 
 ## ELEC5650 - Sensing, Estimation & Control
